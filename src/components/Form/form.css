@@ -1,0 +1,17 @@
+.form {
+  text-align: center;
+  height: 100%;
+  margin-top: 60px;
+}
+
+.form-item {
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 6px;
+}
+
+.form-item--text  {
+  font-size: 20px;
+  margin-top: 60px;
+}
